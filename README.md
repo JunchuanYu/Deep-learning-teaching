@@ -80,7 +80,7 @@
         * 练习任务2: 改进decoder重构策略
 
     * 案例4\-高光谱分类实验：构建CbrrUnet网络完成地物识别和评价
-        * [数据下载连接](https://pan.baidu.com/s/1kMQaOBVUHyVNC8HOg_XucQ) 提取码：1111
+        * 数据下载链接：请联系作者(yujunchuan@mail.cgs.gov.cn)
         * 了解遥感数据读写方法
         * 半自动交互式样本集构建
         * 高光谱处理技术
